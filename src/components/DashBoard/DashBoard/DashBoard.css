@@ -1,0 +1,14 @@
+.dashboard {
+    height: 100%;
+    border-radius: 10px;
+}
+.d-link{
+    list-style: none;
+    text-decoration: none;
+}
+.d-white {
+    color: black;
+    background: rgb(248, 246, 246);
+    padding: 10px 20px;
+    border-radius: 20px;
+}
